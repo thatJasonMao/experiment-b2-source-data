@@ -1,0 +1,786 @@
+=== DP3 Group Cluster Report ===
+Total clusters: 256
+Total points: 104791
+Noise points: 31535 (30.1%)
+Silhouette (non-noise): -0.5940325962809568
+Largest cluster id: 0
+Core cluster count: 64.5%
+Core cluster angle range: 55.5-127.5
+Core cluster distance range: 0.31-17.36
+Largest cluster PCA axis ratio (major/minor): 6.7048182699061964
+KDE peak density: 0.1168677405518072
+KDE hotspot quantile: 0.9
+Hotspot area: 40.0
+Hotspot coverage: 0.1
+Hotspot peak area: 3.0
+Max gradient: 0.1795755980311328
+Mean gradient (hotspot): 0.03220740154008476
+------------------------------
+Cluster 0:
+  Point count: 67570
+------------------------------
+Cluster 1:
+  Point count: 19
+------------------------------
+Cluster 2:
+  Point count: 83
+------------------------------
+Cluster 3:
+  Point count: 127
+------------------------------
+Cluster 4:
+  Point count: 10
+------------------------------
+Cluster 5:
+  Point count: 51
+------------------------------
+Cluster 6:
+  Point count: 10
+------------------------------
+Cluster 7:
+  Point count: 15
+------------------------------
+Cluster 8:
+  Point count: 8
+------------------------------
+Cluster 9:
+  Point count: 17
+------------------------------
+Cluster 10:
+  Point count: 19
+------------------------------
+Cluster 11:
+  Point count: 143
+------------------------------
+Cluster 12:
+  Point count: 57
+------------------------------
+Cluster 13:
+  Point count: 41
+------------------------------
+Cluster 14:
+  Point count: 26
+------------------------------
+Cluster 15:
+  Point count: 16
+------------------------------
+Cluster 16:
+  Point count: 73
+------------------------------
+Cluster 17:
+  Point count: 13
+------------------------------
+Cluster 18:
+  Point count: 32
+------------------------------
+Cluster 19:
+  Point count: 10
+------------------------------
+Cluster 20:
+  Point count: 33
+------------------------------
+Cluster 21:
+  Point count: 56
+------------------------------
+Cluster 22:
+  Point count: 10
+------------------------------
+Cluster 23:
+  Point count: 59
+------------------------------
+Cluster 24:
+  Point count: 60
+------------------------------
+Cluster 25:
+  Point count: 26
+------------------------------
+Cluster 26:
+  Point count: 41
+------------------------------
+Cluster 27:
+  Point count: 18
+------------------------------
+Cluster 28:
+  Point count: 12
+------------------------------
+Cluster 29:
+  Point count: 13
+------------------------------
+Cluster 30:
+  Point count: 17
+------------------------------
+Cluster 31:
+  Point count: 87
+------------------------------
+Cluster 32:
+  Point count: 12
+------------------------------
+Cluster 33:
+  Point count: 21
+------------------------------
+Cluster 34:
+  Point count: 41
+------------------------------
+Cluster 35:
+  Point count: 46
+------------------------------
+Cluster 36:
+  Point count: 56
+------------------------------
+Cluster 37:
+  Point count: 255
+------------------------------
+Cluster 38:
+  Point count: 10
+------------------------------
+Cluster 39:
+  Point count: 22
+------------------------------
+Cluster 40:
+  Point count: 17
+------------------------------
+Cluster 41:
+  Point count: 22
+------------------------------
+Cluster 42:
+  Point count: 72
+------------------------------
+Cluster 43:
+  Point count: 22
+------------------------------
+Cluster 44:
+  Point count: 37
+------------------------------
+Cluster 45:
+  Point count: 21
+------------------------------
+Cluster 46:
+  Point count: 26
+------------------------------
+Cluster 47:
+  Point count: 13
+------------------------------
+Cluster 48:
+  Point count: 14
+------------------------------
+Cluster 49:
+  Point count: 13
+------------------------------
+Cluster 50:
+  Point count: 37
+------------------------------
+Cluster 51:
+  Point count: 26
+------------------------------
+Cluster 52:
+  Point count: 30
+------------------------------
+Cluster 53:
+  Point count: 11
+------------------------------
+Cluster 54:
+  Point count: 52
+------------------------------
+Cluster 55:
+  Point count: 16
+------------------------------
+Cluster 56:
+  Point count: 69
+------------------------------
+Cluster 57:
+  Point count: 19
+------------------------------
+Cluster 58:
+  Point count: 23
+------------------------------
+Cluster 59:
+  Point count: 10
+------------------------------
+Cluster 60:
+  Point count: 12
+------------------------------
+Cluster 61:
+  Point count: 34
+------------------------------
+Cluster 62:
+  Point count: 10
+------------------------------
+Cluster 63:
+  Point count: 13
+------------------------------
+Cluster 64:
+  Point count: 9
+------------------------------
+Cluster 65:
+  Point count: 11
+------------------------------
+Cluster 66:
+  Point count: 16
+------------------------------
+Cluster 67:
+  Point count: 22
+------------------------------
+Cluster 68:
+  Point count: 12
+------------------------------
+Cluster 69:
+  Point count: 24
+------------------------------
+Cluster 70:
+  Point count: 10
+------------------------------
+Cluster 71:
+  Point count: 63
+------------------------------
+Cluster 72:
+  Point count: 19
+------------------------------
+Cluster 73:
+  Point count: 16
+------------------------------
+Cluster 74:
+  Point count: 10
+------------------------------
+Cluster 75:
+  Point count: 11
+------------------------------
+Cluster 76:
+  Point count: 14
+------------------------------
+Cluster 77:
+  Point count: 20
+------------------------------
+Cluster 78:
+  Point count: 17
+------------------------------
+Cluster 79:
+  Point count: 15
+------------------------------
+Cluster 80:
+  Point count: 19
+------------------------------
+Cluster 81:
+  Point count: 19
+------------------------------
+Cluster 82:
+  Point count: 15
+------------------------------
+Cluster 83:
+  Point count: 46
+------------------------------
+Cluster 84:
+  Point count: 22
+------------------------------
+Cluster 85:
+  Point count: 94
+------------------------------
+Cluster 86:
+  Point count: 23
+------------------------------
+Cluster 87:
+  Point count: 13
+------------------------------
+Cluster 88:
+  Point count: 16
+------------------------------
+Cluster 89:
+  Point count: 22
+------------------------------
+Cluster 90:
+  Point count: 10
+------------------------------
+Cluster 91:
+  Point count: 10
+------------------------------
+Cluster 92:
+  Point count: 28
+------------------------------
+Cluster 93:
+  Point count: 14
+------------------------------
+Cluster 94:
+  Point count: 13
+------------------------------
+Cluster 95:
+  Point count: 12
+------------------------------
+Cluster 96:
+  Point count: 39
+------------------------------
+Cluster 97:
+  Point count: 15
+------------------------------
+Cluster 98:
+  Point count: 19
+------------------------------
+Cluster 99:
+  Point count: 19
+------------------------------
+Cluster 100:
+  Point count: 10
+------------------------------
+Cluster 101:
+  Point count: 46
+------------------------------
+Cluster 102:
+  Point count: 33
+------------------------------
+Cluster 103:
+  Point count: 20
+------------------------------
+Cluster 104:
+  Point count: 23
+------------------------------
+Cluster 105:
+  Point count: 10
+------------------------------
+Cluster 106:
+  Point count: 16
+------------------------------
+Cluster 107:
+  Point count: 11
+------------------------------
+Cluster 108:
+  Point count: 15
+------------------------------
+Cluster 109:
+  Point count: 25
+------------------------------
+Cluster 110:
+  Point count: 15
+------------------------------
+Cluster 111:
+  Point count: 10
+------------------------------
+Cluster 112:
+  Point count: 20
+------------------------------
+Cluster 113:
+  Point count: 12
+------------------------------
+Cluster 114:
+  Point count: 10
+------------------------------
+Cluster 115:
+  Point count: 15
+------------------------------
+Cluster 116:
+  Point count: 9
+------------------------------
+Cluster 117:
+  Point count: 9
+------------------------------
+Cluster 118:
+  Point count: 13
+------------------------------
+Cluster 119:
+  Point count: 19
+------------------------------
+Cluster 120:
+  Point count: 19
+------------------------------
+Cluster 121:
+  Point count: 38
+------------------------------
+Cluster 122:
+  Point count: 32
+------------------------------
+Cluster 123:
+  Point count: 11
+------------------------------
+Cluster 124:
+  Point count: 14
+------------------------------
+Cluster 125:
+  Point count: 23
+------------------------------
+Cluster 126:
+  Point count: 20
+------------------------------
+Cluster 127:
+  Point count: 21
+------------------------------
+Cluster 128:
+  Point count: 26
+------------------------------
+Cluster 129:
+  Point count: 18
+------------------------------
+Cluster 130:
+  Point count: 16
+------------------------------
+Cluster 131:
+  Point count: 8
+------------------------------
+Cluster 132:
+  Point count: 15
+------------------------------
+Cluster 133:
+  Point count: 20
+------------------------------
+Cluster 134:
+  Point count: 57
+------------------------------
+Cluster 135:
+  Point count: 16
+------------------------------
+Cluster 136:
+  Point count: 16
+------------------------------
+Cluster 137:
+  Point count: 18
+------------------------------
+Cluster 138:
+  Point count: 24
+------------------------------
+Cluster 139:
+  Point count: 8
+------------------------------
+Cluster 140:
+  Point count: 7
+------------------------------
+Cluster 141:
+  Point count: 10
+------------------------------
+Cluster 142:
+  Point count: 8
+------------------------------
+Cluster 143:
+  Point count: 12
+------------------------------
+Cluster 144:
+  Point count: 11
+------------------------------
+Cluster 145:
+  Point count: 15
+------------------------------
+Cluster 146:
+  Point count: 14
+------------------------------
+Cluster 147:
+  Point count: 9
+------------------------------
+Cluster 148:
+  Point count: 27
+------------------------------
+Cluster 149:
+  Point count: 10
+------------------------------
+Cluster 150:
+  Point count: 10
+------------------------------
+Cluster 151:
+  Point count: 10
+------------------------------
+Cluster 152:
+  Point count: 15
+------------------------------
+Cluster 153:
+  Point count: 11
+------------------------------
+Cluster 154:
+  Point count: 34
+------------------------------
+Cluster 155:
+  Point count: 11
+------------------------------
+Cluster 156:
+  Point count: 47
+------------------------------
+Cluster 157:
+  Point count: 5
+------------------------------
+Cluster 158:
+  Point count: 15
+------------------------------
+Cluster 159:
+  Point count: 11
+------------------------------
+Cluster 160:
+  Point count: 16
+------------------------------
+Cluster 161:
+  Point count: 19
+------------------------------
+Cluster 162:
+  Point count: 17
+------------------------------
+Cluster 163:
+  Point count: 9
+------------------------------
+Cluster 164:
+  Point count: 17
+------------------------------
+Cluster 165:
+  Point count: 12
+------------------------------
+Cluster 166:
+  Point count: 14
+------------------------------
+Cluster 167:
+  Point count: 13
+------------------------------
+Cluster 168:
+  Point count: 17
+------------------------------
+Cluster 169:
+  Point count: 21
+------------------------------
+Cluster 170:
+  Point count: 11
+------------------------------
+Cluster 171:
+  Point count: 6
+------------------------------
+Cluster 172:
+  Point count: 15
+------------------------------
+Cluster 173:
+  Point count: 13
+------------------------------
+Cluster 174:
+  Point count: 10
+------------------------------
+Cluster 175:
+  Point count: 12
+------------------------------
+Cluster 176:
+  Point count: 15
+------------------------------
+Cluster 177:
+  Point count: 9
+------------------------------
+Cluster 178:
+  Point count: 11
+------------------------------
+Cluster 179:
+  Point count: 18
+------------------------------
+Cluster 180:
+  Point count: 13
+------------------------------
+Cluster 181:
+  Point count: 12
+------------------------------
+Cluster 182:
+  Point count: 19
+------------------------------
+Cluster 183:
+  Point count: 11
+------------------------------
+Cluster 184:
+  Point count: 16
+------------------------------
+Cluster 185:
+  Point count: 15
+------------------------------
+Cluster 186:
+  Point count: 26
+------------------------------
+Cluster 187:
+  Point count: 30
+------------------------------
+Cluster 188:
+  Point count: 88
+------------------------------
+Cluster 189:
+  Point count: 15
+------------------------------
+Cluster 190:
+  Point count: 10
+------------------------------
+Cluster 191:
+  Point count: 27
+------------------------------
+Cluster 192:
+  Point count: 24
+------------------------------
+Cluster 193:
+  Point count: 60
+------------------------------
+Cluster 194:
+  Point count: 10
+------------------------------
+Cluster 195:
+  Point count: 12
+------------------------------
+Cluster 196:
+  Point count: 34
+------------------------------
+Cluster 197:
+  Point count: 28
+------------------------------
+Cluster 198:
+  Point count: 9
+------------------------------
+Cluster 199:
+  Point count: 16
+------------------------------
+Cluster 200:
+  Point count: 9
+------------------------------
+Cluster 201:
+  Point count: 23
+------------------------------
+Cluster 202:
+  Point count: 23
+------------------------------
+Cluster 203:
+  Point count: 22
+------------------------------
+Cluster 204:
+  Point count: 16
+------------------------------
+Cluster 205:
+  Point count: 23
+------------------------------
+Cluster 206:
+  Point count: 10
+------------------------------
+Cluster 207:
+  Point count: 16
+------------------------------
+Cluster 208:
+  Point count: 18
+------------------------------
+Cluster 209:
+  Point count: 8
+------------------------------
+Cluster 210:
+  Point count: 9
+------------------------------
+Cluster 211:
+  Point count: 18
+------------------------------
+Cluster 212:
+  Point count: 10
+------------------------------
+Cluster 213:
+  Point count: 14
+------------------------------
+Cluster 214:
+  Point count: 12
+------------------------------
+Cluster 215:
+  Point count: 23
+------------------------------
+Cluster 216:
+  Point count: 7
+------------------------------
+Cluster 217:
+  Point count: 12
+------------------------------
+Cluster 218:
+  Point count: 10
+------------------------------
+Cluster 219:
+  Point count: 12
+------------------------------
+Cluster 220:
+  Point count: 16
+------------------------------
+Cluster 221:
+  Point count: 8
+------------------------------
+Cluster 222:
+  Point count: 10
+------------------------------
+Cluster 223:
+  Point count: 10
+------------------------------
+Cluster 224:
+  Point count: 20
+------------------------------
+Cluster 225:
+  Point count: 10
+------------------------------
+Cluster 226:
+  Point count: 10
+------------------------------
+Cluster 227:
+  Point count: 10
+------------------------------
+Cluster 228:
+  Point count: 10
+------------------------------
+Cluster 229:
+  Point count: 10
+------------------------------
+Cluster 230:
+  Point count: 11
+------------------------------
+Cluster 231:
+  Point count: 14
+------------------------------
+Cluster 232:
+  Point count: 11
+------------------------------
+Cluster 233:
+  Point count: 74
+------------------------------
+Cluster 234:
+  Point count: 11
+------------------------------
+Cluster 235:
+  Point count: 41
+------------------------------
+Cluster 236:
+  Point count: 15
+------------------------------
+Cluster 237:
+  Point count: 26
+------------------------------
+Cluster 238:
+  Point count: 18
+------------------------------
+Cluster 239:
+  Point count: 45
+------------------------------
+Cluster 240:
+  Point count: 28
+------------------------------
+Cluster 241:
+  Point count: 10
+------------------------------
+Cluster 242:
+  Point count: 11
+------------------------------
+Cluster 243:
+  Point count: 9
+------------------------------
+Cluster 244:
+  Point count: 9
+------------------------------
+Cluster 245:
+  Point count: 10
+------------------------------
+Cluster 246:
+  Point count: 6
+------------------------------
+Cluster 247:
+  Point count: 6
+------------------------------
+Cluster 248:
+  Point count: 9
+------------------------------
+Cluster 249:
+  Point count: 9
+------------------------------
+Cluster 250:
+  Point count: 11
+------------------------------
+Cluster 251:
+  Point count: 10
+------------------------------
+Cluster 252:
+  Point count: 8
+------------------------------
+Cluster 253:
+  Point count: 11
+------------------------------
+Cluster 254:
+  Point count: 10
+------------------------------
+Cluster 255:
+  Point count: 10
+------------------------------

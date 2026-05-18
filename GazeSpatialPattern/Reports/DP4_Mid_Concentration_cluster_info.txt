@@ -1,0 +1,111 @@
+=== DP4_Mid_Concentration Group Cluster Report ===
+Total clusters: 31
+Total points: 22382
+Noise points: 4007 (17.9%)
+Silhouette (non-noise): -0.13715577552499653
+Largest cluster id: 0
+Core cluster count: 79.3%
+Core cluster angle range: 26.9-158.1
+Core cluster distance range: 0.15-7.44
+Largest cluster PCA axis ratio (major/minor): 4.8783727470302705
+KDE peak density: 0.4839073732516529
+KDE hotspot quantile: 0.9
+Hotspot area: 40.0
+Hotspot coverage: 0.1
+Hotspot peak area: 1.0
+Max gradient: 1.063026248753818
+Mean gradient (hotspot): 0.06256473542323512
+------------------------------
+Cluster 0:
+  Point count: 17750
+------------------------------
+Cluster 1:
+  Point count: 62
+------------------------------
+Cluster 2:
+  Point count: 20
+------------------------------
+Cluster 3:
+  Point count: 17
+------------------------------
+Cluster 4:
+  Point count: 150
+------------------------------
+Cluster 5:
+  Point count: 12
+------------------------------
+Cluster 6:
+  Point count: 17
+------------------------------
+Cluster 7:
+  Point count: 33
+------------------------------
+Cluster 8:
+  Point count: 32
+------------------------------
+Cluster 9:
+  Point count: 11
+------------------------------
+Cluster 10:
+  Point count: 13
+------------------------------
+Cluster 11:
+  Point count: 18
+------------------------------
+Cluster 12:
+  Point count: 11
+------------------------------
+Cluster 13:
+  Point count: 7
+------------------------------
+Cluster 14:
+  Point count: 10
+------------------------------
+Cluster 15:
+  Point count: 18
+------------------------------
+Cluster 16:
+  Point count: 17
+------------------------------
+Cluster 17:
+  Point count: 12
+------------------------------
+Cluster 18:
+  Point count: 10
+------------------------------
+Cluster 19:
+  Point count: 33
+------------------------------
+Cluster 20:
+  Point count: 22
+------------------------------
+Cluster 21:
+  Point count: 26
+------------------------------
+Cluster 22:
+  Point count: 14
+------------------------------
+Cluster 23:
+  Point count: 14
+------------------------------
+Cluster 24:
+  Point count: 20
+------------------------------
+Cluster 25:
+  Point count: 15
+------------------------------
+Cluster 26:
+  Point count: 10
+------------------------------
+Cluster 27:
+  Point count: 10
+------------------------------
+Cluster 28:
+  Point count: 10
+------------------------------
+Cluster 29:
+  Point count: 10
+------------------------------
+Cluster 30:
+  Point count: 10
+------------------------------

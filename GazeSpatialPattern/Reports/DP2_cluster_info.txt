@@ -1,0 +1,225 @@
+=== DP2 Group Cluster Report ===
+Total clusters: 69
+Total points: 27237
+Noise points: 8206 (30.1%)
+Silhouette (non-noise): -0.5147672172086984
+Largest cluster id: 5
+Core cluster count: 64.3%
+Core cluster angle range: 47.9-125.2
+Core cluster distance range: 0.37-17.34
+Largest cluster PCA axis ratio (major/minor): 5.933303628563021
+KDE peak density: 0.10342374582150447
+KDE hotspot quantile: 0.9
+Hotspot area: 40.0
+Hotspot coverage: 0.1
+Hotspot peak area: 3.0
+Max gradient: 0.1358447913529251
+Mean gradient (hotspot): 0.022902921442811273
+------------------------------
+Cluster 0:
+  Point count: 22
+------------------------------
+Cluster 1:
+  Point count: 8
+------------------------------
+Cluster 2:
+  Point count: 13
+------------------------------
+Cluster 3:
+  Point count: 28
+------------------------------
+Cluster 4:
+  Point count: 15
+------------------------------
+Cluster 5:
+  Point count: 17500
+------------------------------
+Cluster 6:
+  Point count: 36
+------------------------------
+Cluster 7:
+  Point count: 10
+------------------------------
+Cluster 8:
+  Point count: 19
+------------------------------
+Cluster 9:
+  Point count: 33
+------------------------------
+Cluster 10:
+  Point count: 11
+------------------------------
+Cluster 11:
+  Point count: 20
+------------------------------
+Cluster 12:
+  Point count: 71
+------------------------------
+Cluster 13:
+  Point count: 15
+------------------------------
+Cluster 14:
+  Point count: 12
+------------------------------
+Cluster 15:
+  Point count: 46
+------------------------------
+Cluster 16:
+  Point count: 29
+------------------------------
+Cluster 17:
+  Point count: 48
+------------------------------
+Cluster 18:
+  Point count: 19
+------------------------------
+Cluster 19:
+  Point count: 13
+------------------------------
+Cluster 20:
+  Point count: 10
+------------------------------
+Cluster 21:
+  Point count: 82
+------------------------------
+Cluster 22:
+  Point count: 16
+------------------------------
+Cluster 23:
+  Point count: 62
+------------------------------
+Cluster 24:
+  Point count: 18
+------------------------------
+Cluster 25:
+  Point count: 30
+------------------------------
+Cluster 26:
+  Point count: 33
+------------------------------
+Cluster 27:
+  Point count: 20
+------------------------------
+Cluster 28:
+  Point count: 24
+------------------------------
+Cluster 29:
+  Point count: 11
+------------------------------
+Cluster 30:
+  Point count: 16
+------------------------------
+Cluster 31:
+  Point count: 17
+------------------------------
+Cluster 32:
+  Point count: 13
+------------------------------
+Cluster 33:
+  Point count: 15
+------------------------------
+Cluster 34:
+  Point count: 10
+------------------------------
+Cluster 35:
+  Point count: 10
+------------------------------
+Cluster 36:
+  Point count: 13
+------------------------------
+Cluster 37:
+  Point count: 15
+------------------------------
+Cluster 38:
+  Point count: 19
+------------------------------
+Cluster 39:
+  Point count: 10
+------------------------------
+Cluster 40:
+  Point count: 10
+------------------------------
+Cluster 41:
+  Point count: 5
+------------------------------
+Cluster 42:
+  Point count: 17
+------------------------------
+Cluster 43:
+  Point count: 25
+------------------------------
+Cluster 44:
+  Point count: 14
+------------------------------
+Cluster 45:
+  Point count: 16
+------------------------------
+Cluster 46:
+  Point count: 14
+------------------------------
+Cluster 47:
+  Point count: 10
+------------------------------
+Cluster 48:
+  Point count: 18
+------------------------------
+Cluster 49:
+  Point count: 10
+------------------------------
+Cluster 50:
+  Point count: 29
+------------------------------
+Cluster 51:
+  Point count: 14
+------------------------------
+Cluster 52:
+  Point count: 227
+------------------------------
+Cluster 53:
+  Point count: 9
+------------------------------
+Cluster 54:
+  Point count: 11
+------------------------------
+Cluster 55:
+  Point count: 10
+------------------------------
+Cluster 56:
+  Point count: 21
+------------------------------
+Cluster 57:
+  Point count: 7
+------------------------------
+Cluster 58:
+  Point count: 10
+------------------------------
+Cluster 59:
+  Point count: 10
+------------------------------
+Cluster 60:
+  Point count: 21
+------------------------------
+Cluster 61:
+  Point count: 10
+------------------------------
+Cluster 62:
+  Point count: 10
+------------------------------
+Cluster 63:
+  Point count: 29
+------------------------------
+Cluster 64:
+  Point count: 10
+------------------------------
+Cluster 65:
+  Point count: 4
+------------------------------
+Cluster 66:
+  Point count: 26
+------------------------------
+Cluster 67:
+  Point count: 12
+------------------------------
+Cluster 68:
+  Point count: 10
+------------------------------
